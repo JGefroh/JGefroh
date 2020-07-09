@@ -1,4 +1,4 @@
-# Hi! I'm Joseph.
+# Hi! I'm Joseph. :wave:
 
 I'm a hands-on leader with 7+ years of software engineering experience, and 6+ years of experience managing engineering teams.
 
@@ -6,4 +6,8 @@ I've led over 12 teams on major systems across both startups and enterprises, we
 
 If you're interested in hiring me, check out my [LinkedIn](https://www.linkedin.com/in/jgefroh/).
 
-If you're interested in reading my various articles on engineering and management, check out my [blog](http://medium.com/@jgefroh)
+### Popular blog articles :books:
+* [How to communicate effectively as a leader](https://blog.usejournal.com/how-to-communicate-effectively-as-a-leader-ad49d3f081cc)
+* [A guide to hosting static websites using NGINX](https://medium.com/@jgefroh/a-guide-to-using-nginx-for-static-websites-d96a9d034940)
+* [Transforming an engineering organization](https://medium.com/better-programming/transforming-an-engineering-organization-5f2f3ecbe342)
+* [Software Architecture-Image Uploading](https://medium.com/@jgefroh/software-architecture-image-uploading-67997101a034)
