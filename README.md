@@ -4,7 +4,7 @@ I'm a hands-on leader with 7+ years of software engineering experience, and 6+ y
 
 I've led over 12 teams on major systems across both startups and enterprises, wearing multiple hats in the process - from engineer to architect to product manager to director.
 
-Some of the more fun systems I've built include:
+Some of the more fun systems I've built professionally include:
 * A credit card processing and payments facilitation system
 * A fundraising and donation management platform
 * A job board
