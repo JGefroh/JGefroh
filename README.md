@@ -16,7 +16,7 @@ If you're interested in hiring me, check out my [LinkedIn](https://www.linkedin.
 ### Popular blog articles I've written :books:
 
 <a href="https://medium.com/@jgefroh/how-to-communicate-effectively-as-a-leader-ad49d3f081cc">
-<img width="680" alt="Screen Shot 2020-07-24 at 8 18 01 AM" src="https://user-images.githubusercontent.com/1077095/88408141-fe5ce000-cd87-11ea-9034-30070cb371a3.png">
+<img width="680" alt="Screen Shot 2020-07-24 at 8 18 01 AM" src="https://user-images.githubusercontent.com/1077095/88408862-fb162400-cd88-11ea-92b3-4b81d8e94690.png">
 </a>
 
 <a href="https://medium.com/@jgefroh/a-guide-to-using-nginx-for-static-websites-d96a9d034940">
