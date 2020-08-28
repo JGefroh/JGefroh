@@ -29,5 +29,5 @@ If you're interested in hiring me, check out my [LinkedIn](https://www.linkedin.
 
 
 <a href="https://medium.com/@jgefroh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df">
-<img width="680" alt="Screen Shot 2020-07-24 at 8 18 01 AM" src="https://user-images.githubusercontent.com/1077095/88407547-1b44e380-cd87-11ea-9c7d-b1e68dcf23b5.png">
+<img width="680" alt="88407547-1b44e380-cd87-11ea-9c7d-b1e68dcf23b5" src="https://user-images.githubusercontent.com/1077095/91601383-75087280-e91e-11ea-8626-fa74b6f725c6.png">
 </a>
