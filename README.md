@@ -11,7 +11,7 @@ Some of the more fun systems I've built professionally include:
 * A federal grant management system
 * A vacation day accrual and spending system
 
-If you're interested in hiring me, check out my [LinkedIn](https://www.linkedin.com/in/jgefroh/).
+Check out my [LinkedIn](https://www.linkedin.com/in/jgefroh/).
 
 ### Popular blog articles I've written :books:
 
