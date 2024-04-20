@@ -15,7 +15,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/jgefroh/).
 
 ### Some fun stuff I built personally:
 
-<a href="http://frontier.jgefroh.com">Frontier</a>, a tiny space game.
+<a href="http://frontier.jgefroh.com">Frontier</a>, a tiny space game ([source code](https://github.com/jgefroh/core-frontier)).
 
 <a href="http://frontier.jgefroh.com">
   <img width="2048" alt="Screenshot 2024-04-06 at 6 27 20 PM" src="https://github.com/JGefroh/JGefroh/assets/1077095/9a65c1d9-9209-429c-a68d-5889b13dc9c9">
