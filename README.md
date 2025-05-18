@@ -28,7 +28,5 @@ Check out my [Blog](https://jgefroh.substack.com/).
 <a href="http://light.jgefroh.com">Light</a>, a tiny top-down zombie shooter game ([source code](https://github.com/jgefroh/core-light)).
 
 <a href="http://light.jgefroh.com">
-    <img width="2048" alt="Screenshot 2024-04-06 at 6 27 20 PM" src="https://github.com/user-attachments/assets/497cdd51-286f-4c0d-9d15-d2718fec6092">
+    <img width="2048" alt="Screenshot 2024-04-06 at 6 27 20 PM" src="https://github.com/user-attachments/assets/1b138c8c-c96e-4802-bb4e-4f9dfbb82f0e">
 </a>
-
-
