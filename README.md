@@ -20,7 +20,7 @@ Check out my [Blog](https://jgefroh.substack.com/).
 <a href="http://frontier.jgefroh.com">Frontier</a>, a tiny space game ([source code](https://github.com/jgefroh/core-frontier)).
 
 <a href="http://frontier.jgefroh.com">
-  <img width="2048" alt="Screenshot 2024-04-06 at 6 27 20 PM" src="https://github.com/JGefroh/JGefroh/assets/1077095/9a65c1d9-9209-429c-a68d-5889b13dc9c9">
+  <img width="2048" alt="Screenshot 2024-04-06 at 6 27 20 PM" src="https://github.com/user-attachments/assets/408c3669-03f4-4f92-96b3-4af907e55773">
 </a>
 
 <br/><br/>
