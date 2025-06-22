@@ -1,6 +1,6 @@
 # Hi! I'm Joseph. :wave:
 
-I'm a hands-on leader with 9+ years of software engineering experience, and 8+ years of experience managing engineering teams.
+I'm a hands-on leader with 10+ years of management and software engineering experience.
 
 I've led over 12 teams on major systems across both startups and enterprises, wearing multiple hats in the process - from engineer to architect to product manager to director.
 
@@ -29,4 +29,12 @@ Check out my [Blog](https://jgefroh.substack.com/).
 
 <a href="http://light.jgefroh.com">
     <img width="2048" alt="Screenshot 2024-04-06 at 6 27 20 PM" src="https://github.com/user-attachments/assets/1b138c8c-c96e-4802-bb4e-4f9dfbb82f0e">
+</a>
+
+<br/><br/>
+
+<a href="http://light.jgefroh.com">Tactics</a>, a tiny RTS/RTT game ([source code](https://github.com/jgefroh/core-tactics)).
+
+<a href="http://tactics.jgefroh.com">
+    <img width="2048" alt="Screenshot 2024-04-06 at 6 27 20 PM" src="https://github.com/user-attachments/assets/bf428686-16a6-4844-9108-abfcd3040422">
 </a>
