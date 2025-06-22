@@ -15,7 +15,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/jgefroh/).
 Check out my [Blog](https://jgefroh.substack.com/).
 
 
-### Some fun stuff I built personally:
+### My current hobby is teaching myself how to make video games - some fun stuff I've built personally:
 
 <a href="http://frontier.jgefroh.com">Frontier</a>, a tiny space game ([source code](https://github.com/jgefroh/core-frontier)).
 
