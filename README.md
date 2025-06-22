@@ -1,6 +1,6 @@
 # Hi! I'm Joseph. :wave:
 
-I'm a hands-on leader with 10+ years of management and software engineering experience.
+I'm a hands-on leader with 10+ years of management and software engineering experience, primarily in web application development w/ Ruby on Rails and Javascript (Vue.js, React).
 
 I've led over 12 teams on major systems across both startups and enterprises, wearing multiple hats in the process - from engineer to architect to product manager to director.
 
