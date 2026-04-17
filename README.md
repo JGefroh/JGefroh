@@ -25,6 +25,14 @@ Check out my [Blog](https://jgefroh.substack.com/).
 
 <br/><br/>
 
+<a href="https://bolt.jgefroh.com">Bolt</a>, for rapid note-taking, idea organization, and task tracking ([source code](https://github.com/jgefroh/bolt-vue))</a>
+
+<a href="https://bolt.jgefroh.com">
+  <img width="2042" height="1091" alt="Screenshot 2026-04-11 at 9 59 32 AM" src="https://github.com/user-attachments/assets/514b0225-4688-47f5-bd0e-278d653ee70e" />
+</a>
+
+<br/><br/>
+
 <a href="https://frontier.jgefroh.com">Frontier</a>, a tiny space game ([source code](https://github.com/jgefroh/core-frontier))
 
 <a href="https://frontier.jgefroh.com">
