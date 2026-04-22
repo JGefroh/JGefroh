@@ -25,10 +25,11 @@ Check out my [Blog](https://jgefroh.substack.com/).
 
 <br/><br/>
 
-<a href="https://bolt.jgefroh.com">Bolt</a>, for rapid note-taking, idea organization, and task tracking ([source code](https://github.com/jgefroh/bolt-vue))</a>
-
+<a href="https://bolt.jgefroh.com">Bolt</a>, AI-enabled rapid note-taking, idea organization, and automatic writing ([source code](https://github.com/jgefroh/bolt-vue))</a>
+  <img width="2045" height="1061" alt="Screenshot 2026-04-21 at 7 20 34 PM" src="https://github.com/user-attachments/assets/dc3a1661-d3b3-43cc-b46f-b7999c972e36" />
 <a href="https://bolt.jgefroh.com">
-  <img width="2042" height="1091" alt="Screenshot 2026-04-11 at 9 59 32 AM" src="https://github.com/user-attachments/assets/514b0225-4688-47f5-bd0e-278d653ee70e" />
+  
+
 </a>
 
 <br/><br/>
