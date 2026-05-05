@@ -1,4 +1,4 @@
-# Hi! I'm Joseph. :wave:
+# Hi! I'm Joseph Gefroh. :wave:
 
 I'm a hands-on leader with 12+ years of management and software engineering experience, primarily in web application development w/ Ruby on Rails and Javascript (Vue.js, React).
 
