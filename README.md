@@ -12,7 +12,7 @@ Some of the more fun systems I've built professionally include:
 * A vacation day accrual and spending system
 
 Check out my [LinkedIn](https://www.linkedin.com/in/jgefroh/).  
-Check out my [Blog](https://jgefroh.substack.com/).
+Check out my [Blog](https://blog.jgefroh.com/).
 
 
 ### Some fun stuff I've built personally:
