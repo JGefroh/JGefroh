@@ -1,21 +1,21 @@
 # Hi! I'm Joseph Gefroh. :wave:
 
-I'm a hands-on leader with 12+ years of management and software engineering experience, primarily in web application development w/ Ruby on Rails and Javascript (Vue.js, React).
+[Gefroh](https://jgefroh.com/) is a hands-on product and engineering leader with 12+ years of management and software engineering experience, primarily in web application development w/ Ruby on Rails and Javascript (Vue.js, React).
 
-I've led over 12 teams on major systems across both startups and enterprises, wearing multiple hats in the process - from engineer to architect to product manager to director.
+He's led over 12 teams on major systems across both startups and enterprises, wearing multiple hats in the process - from engineer to architect to product manager to director to executive.
 
-Some of the more fun systems I've built professionally include:
+Some of the more fun systems he's built professionally include:
 * A credit card processing and payments facilitation system
 * A fundraising and donation management platform
 * A job board
 * A federal grant management system
 * A vacation day accrual and spending system
 
-Check out my [LinkedIn](https://www.linkedin.com/in/jgefroh/).  
-Check out my [Blog](https://blog.jgefroh.com/).
+Check out his [LinkedIn](https://www.linkedin.com/in/jgefroh/).  
+Check out his [Blog](https://blog.jgefroh.com/).
 
 
-### Some fun stuff I've built personally:
+### Hobby Projects
 
 <a href="https://palette.jgefroh.com">Palette</a>, for simple doodles, markups, and diagrams ([source code](https://github.com/jgefroh/palette-vue))</a>
 
